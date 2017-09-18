@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+  <catalogpermission_adminhtml_customerproduct_index>
+	<reference name="content">
+	  <block type="catalogpermission/adminhtml_customerproduct" name="customerproduct" />
+	</reference>
+  </catalogpermission_adminhtml_customerproduct_index>
+</layout>
